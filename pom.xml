@@ -6,7 +6,7 @@
         <version>1.0.2</version>
     </parent>
     <artifactId>bitbucket-rest-client</artifactId>
-    <version>2.2.4</version>
+    <version>2.2.4c</version>
     <name>Bitbucket Client</name>
     <description>A Bitbucket Cloud REST APIs client</description>
     <url>https://github.com/fclem/bitbucket-rest-client</url>
@@ -27,7 +27,7 @@
 
     <issueManagement>
         <system>github</system>
-        <url>https://github.com/nfalco79/bitbucket-rest-client/issues</url>
+        <url>https://github.com/fclem/bitbucket-rest-client/issues</url>
     </issueManagement>
 
     <dependencies>

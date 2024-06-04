@@ -35,18 +35,18 @@ import org.junit.Test;
 import org.mockito.Mockito;
 
 import com.fasterxml.jackson.core.type.TypeReference;
-import com.github.nfalco79.bitbucket.client.Credentials.CredentialsBuilder;
-import com.github.nfalco79.bitbucket.client.model.Approval;
-import com.github.nfalco79.bitbucket.client.model.AuthToken;
-import com.github.nfalco79.bitbucket.client.model.BranchRestriction;
-import com.github.nfalco79.bitbucket.client.model.BranchRestriction.Builder;
-import com.github.nfalco79.bitbucket.client.model.CodeInsightsReport;
-import com.github.nfalco79.bitbucket.client.model.Commit;
-import com.github.nfalco79.bitbucket.client.model.GroupInfo;
-import com.github.nfalco79.bitbucket.client.model.Permission;
-import com.github.nfalco79.bitbucket.client.model.PullRequest;
-import com.github.nfalco79.bitbucket.client.model.Repository;
-import com.github.nfalco79.bitbucket.client.model.UserInfo;
+import com.github.fclem.bitbucket.client.Credentials.CredentialsBuilder;
+import com.github.fclem.bitbucket.client.model.Approval;
+import com.github.fclem.bitbucket.client.model.AuthToken;
+import com.github.fclem.bitbucket.client.model.BranchRestriction;
+import com.github.fclem.bitbucket.client.model.BranchRestriction.Builder;
+import com.github.fclem.bitbucket.client.model.CodeInsightsReport;
+import com.github.fclem.bitbucket.client.model.Commit;
+import com.github.fclem.bitbucket.client.model.GroupInfo;
+import com.github.fclem.bitbucket.client.model.Permission;
+import com.github.fclem.bitbucket.client.model.PullRequest;
+import com.github.fclem.bitbucket.client.model.Repository;
+import com.github.fclem.bitbucket.client.model.UserInfo;
 
 public class CloudClientTest {
 
