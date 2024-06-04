@@ -13,7 +13,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-package com.github.nfalco79.bitbucket.client;
+package com.github.fclem.bitbucket.client;
 
 import static org.assertj.core.api.Assertions.assertThat;
 

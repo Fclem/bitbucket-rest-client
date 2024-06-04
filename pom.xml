@@ -5,6 +5,7 @@
         <artifactId>parent</artifactId>
         <version>1.0.2</version>
     </parent>
+    <groupId>com.github.fclem</groupId>
     <artifactId>bitbucket-rest-client</artifactId>
     <version>2.2.4c</version>
     <name>Bitbucket Client</name>
